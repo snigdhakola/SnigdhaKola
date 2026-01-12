@@ -1,10 +1,10 @@
 ## Hi there I'm Snigdha Kola 👋
 
-👨‍💻 About Me
+👨‍💻 **About Me**
 
 Hello there! I'm Snigdha Kola, a Software Engineer with strong experience in automation testing, automotive embedded systems, and data analytics, currently working with Harman International on Intelligent Cockpit and ADAS platforms for leading automotive brands.
 
-🚀 Quick Highlights
+🚀 **Quick Highlights**
 
 🎓 B.Tech in Electronics & Communication Engineering | JNTUH
 🏢 Software Engineer | Harman International
@@ -12,7 +12,7 @@ Hello there! I'm Snigdha Kola, a Software Engineer with strong experience in aut
 🧪 Expert in Automation, Infotainment & ADAS Testing
 📊 Strong in Data Analytics & Visualization
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 💻 Languages: Python, SQL
 🧪 Automation & Testing: Robot Framework, Pytest, Sanity, Regression
@@ -21,7 +21,7 @@ Hello there! I'm Snigdha Kola, a Software Engineer with strong experience in aut
 ⚙️ CI/CD & Tools: Jenkins, GitHub, Gerrit, PCAN
 📊 Data & BI: Pandas, NumPy, Power BI, Tableau, Descriptive Statistics
 
-🚀 Projects
+🚀 **Projects**
 
 🚗 Intelligent Cockpit – Ferrari & BMW
 • Automated infotainment, multimedia & UI test cases
@@ -38,12 +38,12 @@ Hello there! I'm Snigdha Kola, a Software Engineer with strong experience in aut
 🍕 Pizza Hut Website, App & POS System
 • Functional, regression & system testing for ROA markets
 
-📚 Education & Certifications
+📚 **Education & Certifications**
 
 🎓 B.Tech in Electronics & Communication Engineering – JNTUH
 💼 Professional experience in Automotive QA, Automation & Data Analytics
 
-🌐 Connect with Me
+🌐 **Connect with Me**
 
 📧 Email: snigdhakola21@gmail.com
 
