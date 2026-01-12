@@ -1,3 +1,5 @@
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/97d0546d-bee1-4d3c-b215-25650b3fc8c7" />
+
 ## Hi there I'm Snigdha Kola 👋
 
 👨‍💻 **About Me**
